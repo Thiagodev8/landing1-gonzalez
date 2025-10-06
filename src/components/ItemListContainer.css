@@ -1,0 +1,16 @@
+.item-list-container {
+  text-align: center;
+  margin-top: 50px;
+  color: #333;
+}
+
+.item-list-container h1 {
+  font-size: 2rem;
+  color: #004aad;
+  margin-bottom: 10px;
+}
+
+.item-list-container p {
+  font-size: 1.1rem;
+  color: #555;
+}
